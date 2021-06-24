@@ -1,0 +1,7 @@
+numpy
+librosa
+sklearn
+pandas
+scipy
+# install with conda
+# conda install pytorch==1.0.1 torchvision==0.2.2 -c pytorch
